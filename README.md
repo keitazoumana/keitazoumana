@@ -1,4 +1,4 @@
-### Hi there 👋 and welcome! 😀 
+### Hi there 👋
 My name is 
 # Zoumana Keita
 
