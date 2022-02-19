@@ -15,5 +15,4 @@ My name is
 
 
 ## 🏅 My Most Used Languages:
-![Zoumana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keitazoumana)
-
+[![Zoumana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keitazoumana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
