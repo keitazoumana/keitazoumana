@@ -5,9 +5,9 @@ My name is
 - ⚡ I am currently Data Scientist at [Axionable](https://www.axionable.com/), first Sustainable AI startup in France and Canada
 - ❤️ My areas of expertise are Natural Language Processing, Cloud Computing & MLOps
 - 🩺 What keeps me in shape 
-  -  Taekwondo practitioner 🥋 
+  -  Taekwondo classes 🥋 on Tuesday, Thursday, Friday & Saturday 
   -  Daily morning runner 🏃🏾
-  -  Occasionally football player ⚽️ with friends 
+  -  Occasional football player ⚽️ with friends 
   -  Attiéké, Yassa, Mafé, Thieb, etc. 😋 
 - 🌱 I’m addicted to continuous learning, which makes me grow on a regular basis
 - 🌏 I'm sharing my knowledge through my blog in order to make good impact on others life
