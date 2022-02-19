@@ -4,7 +4,7 @@ My name is
 
 - ⚡ I am currently Data Scientist at Axionable, first Sustainable AI startup in France and Canada
 - ❤️ My areas of expertise are Natural Language Processing, Cloud Computing, MLOps, Taekwondo, and good food 🥘 
-- 🌱 I’m addicted to continuous learning, which makes me grow
+- 🌱 I’m addicted to continuous learning, which makes me grow on a regular basis
 - 🌏 I'm sharing my knowledge through my blog in order to make good impact on others life
 - 📫 How to find me
   - 💡 [Medium Articles](https://zoumanakeita.medium.com/)
