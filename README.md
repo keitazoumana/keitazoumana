@@ -1,9 +1,6 @@
-### Hi there 👋
-
-
-**keitazoumana/keitazoumana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 and welcome! 😀 
+My name is 
+# Zoumana Keita
 
 - ⚡ I am currently Data Scientist at Axionable, first Sustainable AI startup in France and Canada
 - ❤️ My areas of expertise are Natural Language Processing, Cloud Computing, MLOps, Taekwondo, and good food 🥘 
