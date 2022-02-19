@@ -16,8 +16,8 @@ My name is
   - 🏢 [LinkedIn](https://www.linkedin.com/in/zoumana-keita/)
 
 ## 🏆 My Github Stats:
-![Zoumana's GitHub stats](https://github-readme-stats.vercel.app/api?username=keitazoumana&hide_title=false&count_private=true&show_icons=true&theme=tokyonight)
 ![image title](https://rushter.com/counter.svg)
+![Zoumana's GitHub stats](https://github-readme-stats.vercel.app/api?username=keitazoumana&hide_title=false&count_private=true&show_icons=true&theme=tokyonight)
 
 ## 🏅 My Most Used Languages:
 [![Zoumana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keitazoumana&hide=javascript,html)](https://github.com/keitazoumana/github-readme-stats)
