@@ -7,7 +7,8 @@ My name is
 - 🩺 What keeps me in shape 
   -  Taekwondo practitioner 🥋 
   -  Daily morning runner 🏃🏾
-  -  Occasionally football player ⚽️ with friends
+  -  Occasionally football player ⚽️ with friends 
+  -  Attiéké, Yassa, Mafé, Thieb, etc. 😋 
 - 🌱 I’m addicted to continuous learning, which makes me grow on a regular basis
 - 🌏 I'm sharing my knowledge through my blog in order to make good impact on others life
 - 📫 How to find me
