@@ -2,10 +2,10 @@
 My name is 
 # Zoumana Keita
 
-- ⚡ I am currently Machine Learning Engineer at [Lincoln](https://www.lincoln.fr/). Before that, I was Data Scientist for 2 years at [Axionable](https://www.axionable.com/), first Sustainable AI startup in France and Canada
+- ⚡ Previously I worked as Machine Learning Engineer at [Lincoln](https://www.lincoln.fr/) for a couple of weeks before moving to the US for my Master in Business & Data Science at [Texas Tech University, Rawls College of Business](https://www.depts.ttu.edu/rawlsbusiness/). Before that, I was Data Scientist for 2 years at [Axionable](https://www.axionable.com/), first Sustainable AI startup in France and Canada
 - ❤️ I love Data Science, Natural Language Processing, Cloud Computing & MLOps
 - 🩺 What keeps me in shape 
-  -  Taekwondo classes 🥋 on Tuesday, Thursday, Friday & Saturday at [Mudo Club Argenteuil](https://www.mudoclubargenteuil.fr/)
+  -  When I was in France, I had Taekwondo classes 🥋 on Tuesday, Thursday, Friday & Saturday at [Mudo Club Argenteuil](https://www.mudoclubargenteuil.fr/)
   -  Daily morning runner 🏃🏾
   -  Occasional football player ⚽️ with friends 
   -  Attiéké, Yassa, Mafé, Thieb, etc. 😋 
