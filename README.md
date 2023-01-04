@@ -12,6 +12,7 @@ My name is
 - 🌱 I’m addicted to continuous learning, which makes me grow on a regular basis
 - 🌏 I'm sharing my knowledge through my blog in order to make good impact on others life
 - 📫 How to find me
+  - 🌐 [ZoumDataScience](https://www.zoumdatascience.com/) 
   - 💡 [Medium Articles](https://zoumanakeita.medium.com/)
   - 🏢 [LinkedIn](https://www.linkedin.com/in/zoumana-keita/)
 
