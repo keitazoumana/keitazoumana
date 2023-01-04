@@ -2,7 +2,7 @@
 My name is 
 # Zoumana Keita
 
-- ⚡ Previously I worked as Machine Learning Engineer at [Lincoln](https://www.lincoln.fr/) for a couple of weeks before moving to the US for my Master in Business & Data Science at [Texas Tech University, Rawls College of Business](https://www.depts.ttu.edu/rawlsbusiness/). Before that, I was Data Scientist for 2 years at [Axionable](https://www.axionable.com/), first Sustainable AI startup in France and Canada
+- ⚡ Previously I worked as Machine Learning Engineer at [Lincoln](https://www.lincoln.fr/) for a couple of weeks before moving to the US for my Master in Business & Data Science at [Texas Tech University, Rawls College of Business](https://www.depts.ttu.edu/rawlsbusiness/). Before that, I was Data Scientist for 2 years at [Axionable](https://www.axionable.com/), first Sustainable AI startup in France and Canada. Also I spent 2 years and 6 months at [IBM](https://www.ibm.com/fr-fr) as Machine Learning Consultant. 
 - ❤️ I love Data Science, Natural Language Processing, Cloud Computing & MLOps
 - 🩺 What keeps me in shape 
   -  When I was in France, I had Taekwondo classes 🥋 on Tuesday, Thursday, Friday & Saturday at [Mudo Club Argenteuil](https://www.mudoclubargenteuil.fr/)
@@ -13,6 +13,7 @@ My name is
 - 🌏 I'm sharing my knowledge through my blog in order to make good impact on others life
 - 📫 How to find me
   - 🌐 [ZoumDataScience](https://www.zoumdatascience.com/) 
+  - 📹 [YouTube Channel](https://www.youtube.com/@zoumdatascience) 
   - 💡 [Medium Articles](https://zoumanakeita.medium.com/)
   - 🏢 [LinkedIn](https://www.linkedin.com/in/zoumana-keita/)
 
