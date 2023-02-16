@@ -47,7 +47,7 @@ Subscribe to:
 # Data Science 
 | Title        | Article Link    | Video
 | ------------- |:-------------:| :-----:|
-|A simple way to understand Association Rule from the Customer Basket Analysis Use Case | [🔗]([https://towardsdatascience.com/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0](https://medium.com/towards-data-science/a-simple-way-to-understand-association-rule-from-the-customer-basket-analysis-use-case-c7bcd75bdec1?source=your_stories_page-------------------------------------)) | [🔗]
+|A simple way to understand Association Rule from the Customer Basket Analysis Use Case | [🔗](https://medium.com/towards-data-science/a-simple-way-to-understand-association-rule-from-the-customer-basket-analysis-use-case-c7bcd75bdec1?source=your_stories_page-------------------------------------) | [🔗]
 
 
 
