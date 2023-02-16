@@ -69,6 +69,8 @@ Subscribe to:
 
 
 # Machine Learning
+| Title        | Article Link    | Video
+| ------------- |:-------------:| :-----:|
 |Transfer Learning: Understand the Big Picture & Make the Right Choices for Your Use Case | [🔗](https://medium.com/geekculture/transfert-learning-understand-the-big-picture-make-the-right-choices-for-your-use-case-bb4abc3972e6)|
 |Overview Of 4 Model Validation Approaches to Mitigate Overfitting Problem | [🔗](https://towardsdatascience.com/overview-of-4-model-validation-approaches-to-mitigate-overfitting-problem-6d2eecdf8053) |
 |eXplainable AI (XAI): LIME & SHAP, Two Great Candidates to Help You Explain Your Machine Learning Models | [🔗](https://towardsdatascience.com/explainable-ai-xai-lime-shap-two-great-candidates-to-help-you-explain-your-machine-learning-a95536a46c4e) | 
@@ -78,6 +80,8 @@ Subscribe to:
 
 
 # MLOps
+| Title        | Article Link    | Video
+| ------------- |:-------------:| :-----:|
 |Create An Awesome Streamlit App & Deploy it With Docker | [🔗](https://towardsdatascience.com/create-an-awesome-streamlit-app-deploy-it-with-docker-a3d202a636e8) | 
 |Machine Learning models monitoring made easy with Mlfow, a concrete use case with Python API | [🔗](https://medium.com/mlearning-ai/machine-learning-models-monitoring-made-easy-with-mlfow-a-concrete-use-case-with-python-api-334691936a7a) | 
 |When Your Machine Learning model teams up with Django REST API, A successful deployment into production | [🔗](https://towardsdatascience.com/when-your-machine-learning-model-teams-up-with-django-rest-api-a-successful-deployment-into-2f720bd67ff1) | 
@@ -91,6 +95,8 @@ Subscribe to:
 |Git Reset and Revert Tutorial for Beginners | [🔗](https://www.datacamp.com/tutorial/git-reset-revert-tutorial) |
 
 # Natural Language Processing
+| Title        | Article Link    | Video
+| ------------- |:-------------:| :-----:|
 |Do You Want To Cluster Unlabeled Text Data? Try Out Topic Modeling | [🔗](https://towardsdatascience.com/do-you-want-to-cluster-unlabeled-text-data-try-out-topic-modeling-235795ae7cb7) | 
 |Financial Text Classification With Deep Learning Using FinBERT | [🔗](https://medium.com/mlearning-ai/financial-text-classification-with-deep-learning-using-finbert-51a73b393a08) | 
 |Named Entity Recognition with Spacy and the Mighty roBERTa | [🔗](https://towardsdatascience.com/named-entity-recognition-with-spacy-and-the-mighty-roberta-97d879f981) | [🔗](https://youtu.be/OLwYBSE64m4)
@@ -111,6 +117,8 @@ Subscribe to:
 |Text data representation with one-hot encoding, Tf-Idf, Count Vectors, Co-occurrence Vectors and Word2Vec | [🔗](https://towardsdatascience.com/text-data-representation-with-one-hot-encoding-tf-idf-count-vectors-co-occurrence-vectors-and-f1bccbd98bef) | 
 
 # Python
+| Title        | Article Link    | Video
+| ------------- |:-------------:| :-----:|
 |5 Python open-source tools to extract text and tabular data from PDF Files | [🔗](https://towardsdatascience.com/5-python-open-source-tools-to-extract-text-and-tabular-data-from-pdf-files-9359cdde6b56) |
 |When Should You Consider Using Datatable Instead of Pandas to Process Large Data? | [🔗](https://towardsdatascience.com/when-should-you-consider-using-datatable-instead-of-pandas-to-process-large-data-29a4245f67c6) | 
 |Convert Any Type of Document to Text With Apache Tika Using Python API | [🔗](https://medium.com/mlearning-ai/convert-any-type-of-document-to-text-with-apache-tika-using-python-api-ff306c467b3) | 
@@ -124,9 +132,13 @@ Subscribe to:
 |How to Create a Virtual Environment and Use it on Jupyter Notebook | [🔗](https://towardsdatascience.com/how-to-create-a-virtual-environment-and-use-it-on-jupyter-notebook-6c0b7b1cfca0) | [🔗](https://youtu.be/5c1DJBgzL3o)
 
 # Pandas & Python Tricks
+| Title        | Article Link    | Video
+| ------------- |:-------------:| :-----:|
 |Pandas and Python Tips and Tricks for Data Science and Data Analysis | [🔗](https://towardsdatascience.com/pandas-and-python-tips-and-tricks-for-data-science-and-data-analysis-1b1e05b7d93a) | [🔗](https://youtu.be/pvNvgW0USZU)
 |Pandas & Python Tricks for Data Science & Data Analysis — Part 2 | [🔗](https://towardsdatascience.com/pandas-python-tricks-for-data-science-data-analysis-part-2-dc36460de90d) | [🔗](https://youtu.be/UxMJoteb3v0)
 
 # Computer Vision
+| Title        | Article Link    | Video
+| ------------- |:-------------:| :-----:|
 |Five Simple Image Data Augmentation Techniques to Mitigate Overfitting In Computer Vision | [🔗](https://towardsdatascience.com/simple-image-data-augmentation-technics-to-mitigate-overfitting-in-computer-vision-2a6966f51af4) |
 |YOLO Object Detection Explained | [🔗](https://www.datacamp.com/blog/yolo-object-detection-explained) |
