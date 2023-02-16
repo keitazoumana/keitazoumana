@@ -48,7 +48,7 @@ Subscribe to:
 | Title        | Article Link    | Video
 | ------------- |:-------------:| :-----:|
 |A simple way to understand Association Rule from the Customer Basket Analysis Use Case | [🔗](https://medium.com/towards-data-science/a-simple-way-to-understand-association-rule-from-the-customer-basket-analysis-use-case-c7bcd75bdec1?source=your_stories_page-------------------------------------) | 
-|Different Metrics to Evaluate Binary Classification Models and Some Strategies to Choose the Right One | [🔗](https://towardsdatascience.com/different-metrics-to-evaluate-binary-classification-models-and-some-strategies-to-choose-the-right-911ef72a107b)) | 
+|Different Metrics to Evaluate Binary Classification Models and Some Strategies to Choose the Right One | [🔗](https://towardsdatascience.com/different-metrics-to-evaluate-binary-classification-models-and-some-strategies-to-choose-the-right-911ef72a107b) | 
 |Introduction to Mito: Spreadsheet for Data Scientists That Also Generates Python Codes | [🔗](https://towardsdatascience.com/introduction-to-mito-spreadsheet-for-data-scientists-that-also-generates-python-codes-642b4c2d7dfc) |
 |When R Meets SQL to Query Dataframes | [🔗]([link](https://towardsdatascience.com/when-r-meets-sql-to-query-data-frames-a94d9d92b0f2)) | 
 |5 Essential Tools to Start a Career in Data Science and Data Analytics | [🔗](https://towardsdatascience.com/5-essential-tools-to-start-a-career-in-data-science-and-data-analytics-dfcf25b5e51b) | 
@@ -60,7 +60,7 @@ Subscribe to:
 |Which One of These 2 Open-Source Libraries Is Better for Processing Gigabytes of Data? | [🔗](https://medium.com/geekculture/which-one-of-these-3-open-source-libraries-is-better-for-processing-gigabytes-of-data-6398af287b5a) | [🔗](https://youtu.be/Z0PdBg6OlqY)
 |ChatGPT for Data Scientists, Data Analysts, and Programmers | [🔗](https://medium.com/geekculture/chatgpt-for-data-scientists-data-analysts-and-programmers-3422973960cd) | [🔗](https://youtu.be/UvJiE_IecM4)
 |Tableau Data Blending Tutorial — A Step-By-Step Guide For Beginners | [🔗](https://towardsdatascience.com/tableau-data-blending-tutorial-a-step-by-step-guide-for-beginners-5fd80fa001db) | 
-|Fundamentals of Statistics All Data Scientists & Analysts Should Know — With Code — Part 1 | [🔗](https://towardsdatascience.com/fundamentals-of-statistics-all-data-scientists-analysts-should-know-with-code-part-1-d6ac0f4b99b5)) | [🔗](https://youtu.be/a5CQCxlTTe8)
+|Fundamentals of Statistics All Data Scientists & Analysts Should Know — With Code — Part 1 | [🔗](https://towardsdatascience.com/fundamentals-of-statistics-all-data-scientists-analysts-should-know-with-code-part-1-d6ac0f4b99b5) | [🔗](https://youtu.be/a5CQCxlTTe8)
 |Everything You Need to Know About Heatmap — Tutorial With PowerBI | [🔗](https://towardsdatascience.com/fundamentals-of-statistics-all-data-scientists-analysts-should-know-with-code-part-1-d6ac0f4b99b5) | 
 |Top Techniques to Handle Missing Values Every Data Scientist Should Know | [🔗](https://www.datacamp.com/tutorial/techniques-to-handle-missing-data-values) | 
 |An Introduction to Hierarchical Clustering in Python | [🔗](https://www.datacamp.com/tutorial/introduction-hierarchical-clustering-python) | 
