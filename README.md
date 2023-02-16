@@ -24,3 +24,41 @@ My name is
 ## 🏅 My Most Used Languages:
 [![Zoumana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keitazoumana&hide=javascript,html)](https://github.com/keitazoumana/github-readme-stats)
 
+---
+
+# Data Science, Machine Learning & MLOPs Resources.  
+This is the collection of all the resources I have created, organized by topics. 
+
+Subscribe to:
+- [My YouTube channel](https://www.youtube.com/@zoumdatascience) for **videos** related to Python and data sience
+- [My Medium newsletter](https://zoumanakeita.medium.com/subscribe) for updates of my **blogs** in your mailbox
+- [ZoumDataScience](https://www.zoumdatascience.com/) for Pandas and Python **tips and trics** in your mailbox
+
+
+# Content
+1. [Data Science](#datascience)
+2. [Machine Learning](#machinelearning)
+3. [MLOps](#mlops)
+4. [Natural Language Processing](#natural-language-processing)
+5. [Python](#python)
+6. [Pandas & Python Tricks](#pandas-python-tricks)
+7. [Computer Vision](#computer-vision)
+
+# Data Science 
+| Title        | Article Link    | Video
+| ------------- |:-------------:| :-----:|
+|A simple way to understand Association Rule from the Customer Basket Analysis Use Case | [🔗]([https://towardsdatascience.com/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0](https://medium.com/towards-data-science/a-simple-way-to-understand-association-rule-from-the-customer-basket-analysis-use-case-c7bcd75bdec1?source=your_stories_page-------------------------------------)) | [🔗]
+
+
+
+# Machine Learning
+
+# MLOps
+
+# Natural Language Processing
+
+# Python
+
+# Pandas & Python Tricks
+
+# Computer Vision
