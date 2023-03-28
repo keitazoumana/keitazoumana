@@ -50,7 +50,7 @@ Subscribe to:
 |A simple way to understand Association Rule from the Customer Basket Analysis Use Case | [🔗](https://medium.com/towards-data-science/a-simple-way-to-understand-association-rule-from-the-customer-basket-analysis-use-case-c7bcd75bdec1?source=your_stories_page-------------------------------------) | 
 |Different Metrics to Evaluate Binary Classification Models and Some Strategies to Choose the Right One | [🔗](https://towardsdatascience.com/different-metrics-to-evaluate-binary-classification-models-and-some-strategies-to-choose-the-right-911ef72a107b) | 
 |Introduction to Mito: Spreadsheet for Data Scientists That Also Generates Python Codes | [🔗](https://towardsdatascience.com/introduction-to-mito-spreadsheet-for-data-scientists-that-also-generates-python-codes-642b4c2d7dfc) |
-|When R Meets SQL to Query Dataframes | [🔗]([link](https://towardsdatascience.com/when-r-meets-sql-to-query-data-frames-a94d9d92b0f2)) | 
+|When R Meets SQL to Query Dataframes | [🔗]([link](https://towardsdatascience.com/when-r-meets-sql-to-query-data-frames-a94d9d92b0f2) | 
 |5 Essential Tools to Start a Career in Data Science and Data Analytics | [🔗](https://towardsdatascience.com/5-essential-tools-to-start-a-career-in-data-science-and-data-analytics-dfcf25b5e51b) | 
 |4 Types of SQL JOIN Every Data Scientist Should Know: Visual Representation | [🔗](https://towardsdatascience.com/4-types-of-sql-join-any-data-scientists-should-know-hands-on-practice-4a1d119c00ad) | 
 |Data Preprocessing Using Pipeline in Pandas | [🔗](https://towardsdatascience.com/data-preprocessing-using-pipeline-in-pandas-6170f4456796) | [🔗](https://www.youtube.com/watch?v=kncKZX416VE)
