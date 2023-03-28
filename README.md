@@ -74,7 +74,7 @@ Subscribe to:
 |Transfer Learning: Understand the Big Picture & Make the Right Choices for Your Use Case | [🔗](https://medium.com/geekculture/transfert-learning-understand-the-big-picture-make-the-right-choices-for-your-use-case-bb4abc3972e6)|
 |Overview Of 4 Model Validation Approaches to Mitigate Overfitting Problem | [🔗](https://towardsdatascience.com/overview-of-4-model-validation-approaches-to-mitigate-overfitting-problem-6d2eecdf8053) |
 |eXplainable AI (XAI): LIME & SHAP, Two Great Candidates to Help You Explain Your Machine Learning Models | [🔗](https://towardsdatascience.com/explainable-ai-xai-lime-shap-two-great-candidates-to-help-you-explain-your-machine-learning-a95536a46c4e) | 
-|Using Gradio To Create Apps For Your Machine Learning Models | [🔗](https://medium.com/geekculture/using-gradio-to-create-apps-for-your-machine-learning-models-569247f217ef) |
+|Using Gradio To Create Apps For Your Machine Learning Models | [🔗](https://medium.com/geekculture/using-gradio-to-create-apps-for-your-machine-learning-models-569247f217ef) | [🔗](https://www.youtube.com/watch?v=OgQyZ4LApnY)
 |How to Perform KMeans Clustering Using Python | [🔗](https://towardsdatascience.com/how-to-perform-kmeans-clustering-using-python-7cc296cec092) | [🔗](https://youtu.be/hJH6YQzk8gQ)
 |Classification in Machine Learning: An Introduction | [🔗](https://www.datacamp.com/blog/classification-machine-learning) | 
 
