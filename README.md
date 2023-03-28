@@ -53,7 +53,7 @@ Subscribe to:
 |When R Meets SQL to Query Dataframes | [🔗]([link](https://towardsdatascience.com/when-r-meets-sql-to-query-data-frames-a94d9d92b0f2)) | 
 |5 Essential Tools to Start a Career in Data Science and Data Analytics | [🔗](https://towardsdatascience.com/5-essential-tools-to-start-a-career-in-data-science-and-data-analytics-dfcf25b5e51b) | 
 |4 Types of SQL JOIN Every Data Scientist Should Know: Visual Representation | [🔗](https://towardsdatascience.com/4-types-of-sql-join-any-data-scientists-should-know-hands-on-practice-4a1d119c00ad) | 
-|Data Preprocessing Using Pipeline in Pandas | [🔗](https://towardsdatascience.com/data-preprocessing-using-pipeline-in-pandas-6170f4456796) | 
+|Data Preprocessing Using Pipeline in Pandas | [🔗](https://towardsdatascience.com/data-preprocessing-using-pipeline-in-pandas-6170f4456796) | [🔗](https://www.youtube.com/watch?v=kncKZX416VE)
 |The guide to choosing the right database for my project: MongoDB vs. MySQL | [🔗](https://towardsdatascience.com/the-guide-to-choosing-the-right-database-for-my-project-mongodb-vs-mysql-256e270d29b8) | 
 |How to Run SQL Queries On Your Pandas DataFrames With Python | [🔗](https://towardsdatascience.com/how-to-run-sql-queries-on-your-pandas-dataframes-with-python-4237ffecc43b) | [🔗](https://youtu.be/8N5UOWderg4)
 |Algorithmic Bias in Healthcare and Some Strategies for Mitigating It | [🔗](https://towardsdatascience.com/algorithmic-bias-in-healthcare-and-some-strategies-for-mitigating-it-835abe28df7) | 
