@@ -115,6 +115,7 @@ Subscribe to:
 |Text-to-Image and Image-to-image search Using CLIP | [🔗](https://www.pinecone.io/learn/clip-image-search/) |
 |A Step-by-step Guide to Solving 4 Real-life Problems With Transformers and Hugging Face | [🔗](https://towardsdatascience.com/4-real-life-problems-solved-using-transformers-and-hugging-face-a-complete-guide-e45fe698cc4d) | [🔗](link)
 |Text data representation with one-hot encoding, Tf-Idf, Count Vectors, Co-occurrence Vectors and Word2Vec | [🔗](https://towardsdatascience.com/text-data-representation-with-one-hot-encoding-tf-idf-count-vectors-co-occurrence-vectors-and-f1bccbd98bef) | 
+|Fine-Tuning GPT-3 Using the OpenAI API and Python | [🔗](https://www.datacamp.com/tutorial/fine-tuning-gpt-3-using-the-open-ai-api-and-python) | 
 
 # Python
 | Title        | Article Link    | Video
@@ -142,3 +143,5 @@ Subscribe to:
 | ------------- |:-------------:| :-----:|
 |Five Simple Image Data Augmentation Techniques to Mitigate Overfitting In Computer Vision | [🔗](https://towardsdatascience.com/simple-image-data-augmentation-technics-to-mitigate-overfitting-in-computer-vision-2a6966f51af4) |
 |YOLO Object Detection Explained | [🔗](https://www.datacamp.com/blog/yolo-object-detection-explained) |
+|How to Measure Model Performance in Computer Vision: A Comprehensive Guide | [🔗](https://encord.com/blog/measure-model-performance-computer-vision/) |
+
