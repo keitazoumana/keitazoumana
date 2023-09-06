@@ -40,9 +40,10 @@ Subscribe to:
 2. [Machine Learning](#machinelearning)
 3. [MLOps](#mlops)
 4. [Natural Language Processing](#natural-language-processing)
-5. [Python](#python)
-6. [Pandas & Python Tricks](#pandas-python-tricks)
-7. [Computer Vision](#computer-vision)
+5. [Large Language Models](#large-language-models)
+6. [Python](#python)
+7. [Pandas & Python Tricks](#pandas-python-tricks)
+8. [Computer Vision](#computer-vision)
 
 # Data Science 
 | Title        | Article Link    | Video
@@ -116,6 +117,14 @@ Subscribe to:
 |A Step-by-step Guide to Solving 4 Real-life Problems With Transformers and Hugging Face | [🔗](https://towardsdatascience.com/4-real-life-problems-solved-using-transformers-and-hugging-face-a-complete-guide-e45fe698cc4d) | [🔗](link)
 |Text data representation with one-hot encoding, Tf-Idf, Count Vectors, Co-occurrence Vectors and Word2Vec | [🔗](https://towardsdatascience.com/text-data-representation-with-one-hot-encoding-tf-idf-count-vectors-co-occurrence-vectors-and-f1bccbd98bef) | 
 |Fine-Tuning GPT-3 Using the OpenAI API and Python | [🔗](https://www.datacamp.com/tutorial/fine-tuning-gpt-3-using-the-open-ai-api-and-python) | 
+
+# Large Language Models
+| Title        | Article Link    | Video
+| ------------- |:-------------:| :-----:|
+|How I Built A Video Recommendation System Using Large Language Models and Vector Database | [🔗](https://pub.towardsai.net/how-i-built-a-video-recommendation-system-using-large-language-models-and-vector-database-5becc67f776e)|
+|A Framework For Efficiently Serving Your Large Language Models | [🔗](https://pub.towardsai.net/a-framework-for-efficiently-serving-your-large-language-models-4a009aae71ff) | [🔗](https://youtu.be/6CRrhxpF8WI)
+|How To Scrape a Web Page With ChatGPT — No Coding Required! | [🔗](https://artificialcorner.com/how-to-scrape-a-web-page-with-chatgpt-no-programming-required-d63d6a561aee) | [🔗](https://youtu.be/0eZO1tUFHQY)
+|How to Chat With Any PDFs and Image Files Using Large Language Models — With Code| [🔗](https://towardsdatascience.com/how-to-chat-with-any-file-from-pdfs-to-images-using-large-language-models-with-code-4bcfd7e440bc) | [🔗](https://youtu.be/AHbM2wCyd8s)
 
 # Python
 | Title        | Article Link    | Video
