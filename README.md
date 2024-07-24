@@ -125,6 +125,7 @@ Subscribe to:
 |A Framework For Efficiently Serving Your Large Language Models | [🔗](https://pub.towardsai.net/a-framework-for-efficiently-serving-your-large-language-models-4a009aae71ff) | [🔗](https://youtu.be/6CRrhxpF8WI)
 |How To Scrape a Web Page With ChatGPT — No Coding Required! | [🔗](https://artificialcorner.com/how-to-scrape-a-web-page-with-chatgpt-no-programming-required-d63d6a561aee) | [🔗](https://youtu.be/0eZO1tUFHQY)
 |How to Chat With Any PDFs and Image Files Using Large Language Models — With Code| [🔗](https://towardsdatascience.com/how-to-chat-with-any-file-from-pdfs-to-images-using-large-language-models-with-code-4bcfd7e440bc) | [🔗](https://youtu.be/AHbM2wCyd8s)
+|Multimodal Retrieval Augmented Generation Applied To Real World Case — With Code| [🔗](https://medium.com/artificial-corner/multimodal-retrieval-augmented-generation-for-sustainable-finance-with-code-5a910f3b666c) | [🔗](https://youtu.be/D5iKsvK7cXg)
 
 # Python
 | Title        | Article Link    | Video
