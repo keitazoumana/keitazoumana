@@ -41,9 +41,10 @@ Subscribe to:
 3. [MLOps](#mlops)
 4. [Natural Language Processing](#natural-language-processing)
 5. [Large Language Models](#large-language-models)
-6. [Python](#python)
-7. [Pandas & Python Tricks](#pandas-python-tricks)
-8. [Computer Vision](#computer-vision)
+6. [Retrieval Augmented Generation](#RAG)
+7. [Python](#python)
+8. [Pandas & Python Tricks](#pandas-python-tricks)
+9. [Computer Vision](#computer-vision)
 
 # Data Science 
 | Title        | Article Link    | Video
@@ -121,11 +122,19 @@ Subscribe to:
 # Large Language Models
 | Title        | Article Link    | Video
 | ------------- |:-------------:| :-----:|
-|How I Built A Video Recommendation System Using Large Language Models and Vector Database | [🔗](https://pub.towardsai.net/how-i-built-a-video-recommendation-system-using-large-language-models-and-vector-database-5becc67f776e)|
+|Multimodal Retrieval Augmented Generation Applied To Real World Case — With Code | [🔗](https://medium.com/artificial-corner/multimodal-retrieval-augmented-generation-for-sustainable-finance-with-code-5a910f3b666c)| [🔗](https://youtu.be/D5iKsvK7cXg)
 |A Framework For Efficiently Serving Your Large Language Models | [🔗](https://pub.towardsai.net/a-framework-for-efficiently-serving-your-large-language-models-4a009aae71ff) | [🔗](https://youtu.be/6CRrhxpF8WI)
 |How To Scrape a Web Page With ChatGPT — No Coding Required! | [🔗](https://artificialcorner.com/how-to-scrape-a-web-page-with-chatgpt-no-programming-required-d63d6a561aee) | [🔗](https://youtu.be/0eZO1tUFHQY)
 |How to Chat With Any PDFs and Image Files Using Large Language Models — With Code| [🔗](https://towardsdatascience.com/how-to-chat-with-any-file-from-pdfs-to-images-using-large-language-models-with-code-4bcfd7e440bc) | [🔗](https://youtu.be/AHbM2wCyd8s)
 |Multimodal Retrieval Augmented Generation Applied To Real World Case — With Code| [🔗](https://medium.com/artificial-corner/multimodal-retrieval-augmented-generation-for-sustainable-finance-with-code-5a910f3b666c) | [🔗](https://youtu.be/D5iKsvK7cXg)
+|Document Parsing Using Large Language Models — With Code| [🔗](https://towardsdatascience.com/document-parsing-using-large-language-models-with-code-9229fda09cdf) | [🔗](https://youtu.be/37i6Gx1uvVs?si=i5bOPtc_93X2yf-N)
+|How to Build Anything With AI Agents - With Code| | [🔗](https://youtu.be/NDIkQ3jises?si=1-lrvxhnwvfLFBJz)
+
+# RAG 
+| Title        | Article Link    | Video
+| ------------- |:-------------:| :-----:|
+|How I Built A Video Recommendation System Using Large Language Models and Vector Database | [🔗](https://pub.towardsai.net/how-i-built-a-video-recommendation-system-using-large-language-models-and-vector-database-5becc67f776e)|
+|How to Build RAG based Chatbot: 5 Steps with Amazon Bedrock |  | [🔗](https://www.youtube.com/watch?v=sC8vcRuHDB0)
 
 # Python
 | Title        | Article Link    | Video
