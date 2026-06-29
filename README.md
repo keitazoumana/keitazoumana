@@ -31,10 +31,8 @@ My name is
 This is the collection of all the resources I have created, organized by topics. 
 
 Subscribe to:
-- [My YouTube channel](https://www.youtube.com/@zoumdatascience) for **videos** related to Python and data sience
+- [My YouTube channel](https://www.youtube.com/@techwithzoum) for **videos** related to Python and data sience
 - [My Medium newsletter](https://zoumanakeita.medium.com/subscribe) for updates of my **blogs** in your mailbox
-- [ZoumDataScience](https://www.zoumdatascience.com/) for Pandas and Python **tips and trics** in your mailbox
-
 
 # Content
 1. [Data Science](#datascience)
