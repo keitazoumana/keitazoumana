@@ -43,9 +43,10 @@ Subscribe to:
 4. [Natural Language Processing](#natural-language-processing)
 5. [Large Language Models](#large-language-models)
 6. [Retrieval Augmented Generation](#RAG)
-7. [Python](#python)
-8. [Pandas & Python Tricks](#pandas-python-tricks)
-9. [Computer Vision](#computer-vision)
+7. [AI Agents](#AI-Agents)
+8. [Python](#python)
+9. [Pandas & Python Tricks](#pandas-python-tricks)
+10. [Computer Vision](#computer-vision)
 
 # Data Science 
 | Title        | Article Link    | Video
