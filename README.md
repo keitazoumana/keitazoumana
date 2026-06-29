@@ -27,7 +27,7 @@ My name is
 
 ---
 
-# Data Science, Machine Learning & MLOPs Resources.  
+# Data Science, Machine Learning, MLOPs & AI Agents Resources.  
 This is the collection of all the resources I have created, organized by topics. 
 
 Subscribe to:
