@@ -137,6 +137,14 @@ Subscribe to:
 |How I Built A Video Recommendation System Using Large Language Models and Vector Database | [🔗](https://pub.towardsai.net/how-i-built-a-video-recommendation-system-using-large-language-models-and-vector-database-5becc67f776e)|
 |How to Build RAG based Chatbot: 5 Steps with Amazon Bedrock |  | [🔗](https://www.youtube.com/watch?v=sC8vcRuHDB0)
 
+
+# AI Agents 
+| Title        | Article Link    | Video
+| ------------- |:-------------:| :-----:|
+|7 Essential AI Agent Design Patterns | [🔗](https://medium.com/towards-artificial-intelligence/7-essential-ai-agent-design-patterns-130fdcd74d24)|
+|Beyond the Prompt: Prompt Engineering vs. RAG vs. Retrieval Agents | [🔗](https://medium.com/towards-artificial-intelligence/beyond-the-prompt-prompt-engineering-vs-rag-vs-retrieval-agents-6c0f41a390ba)|
+
+
 # Python
 | Title        | Article Link    | Video
 | ------------- |:-------------:| :-----:|
